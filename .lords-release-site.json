@@ -1,0 +1,13 @@
+{
+  "build": "200",
+  "feedURL": "https://cory-bennett.github.io/lords-account-releases/appcast.xml",
+  "repository": "Cory-Bennett/lords-account-releases",
+  "schema": 1,
+  "siteSHA256": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "LordsAccount.png": "3895ca7f10224591bf20c615d854205b6f9ecc72e23f915dbab21765fba5d280",
+    "appcast.xml": "1a68ad2190649c5732bdabb7f19990d5190d8dedc56801f94cdaded6608e6a7d",
+    "index.html": "87cf281994536f1fcbd5e9a7a79767897a646488c731f6dfeb741a646d032f53"
+  },
+  "version": "0.2.0"
+}
