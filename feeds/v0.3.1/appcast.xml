@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lords Account</title>
+        <item>
+            <title>0.3.1</title>
+            <pubDate>Tue, 13 Oct 2026 22:01:15 -0400</pubDate>
+            <sparkle:version>301</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.3.1/Lords-Account-0.3.1-universal2-build-301.dmg" length="48697867" type="application/octet-stream" sparkle:edSignature="cr1QsfGzMHrvRxXtGjdASCV2a6kDeC3fnA1oVLe7SEt8Fh4sngk17kvh6z5KEiv1WKoh4m2qMWCSKuRfhyN1AA=="/>
+        </item>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 13 Oct 2026 20:40:33 -0400</pubDate>
+            <sparkle:version>300</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.3.0/Lords-Account-0.3.0-universal2-build-300.dmg" length="48081933" type="application/octet-stream" sparkle:edSignature="4CdkJBZ+DcWvCVUyQAHMp6VXcBKWvne1vGG/B/Llb9RSDTa/UUzvSQd30XTOkA6pkqziUkpIb50cUrbhWN7EDw=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 13 Oct 2026 13:25:47 -0400</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.2.0/Lords-Account-0.2.0-universal2-build-200.dmg" length="46423209" type="application/octet-stream" sparkle:edSignature="iWsoxoAdtdlskIMxJZlSudpgAibcrzO7jSyjHp2l6mE/9DkUdeWg1PlNbUwrUoHSa728lhO4+nYGnxDxaY1EBQ=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: jbH2FDdvLcFxrM65Nx2MDXfsRw+SmGbKd3moDa6QpD23q7UCXJhW3dRUwIz9Aq0CinMzZNZGvycKRDIxENXIBw==
+length: 2381
+-->
