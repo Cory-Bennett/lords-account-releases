@@ -1,18 +1,29 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Lords Account</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 13 Oct 2026 20:40:33 -0400</pubDate>
+            <sparkle:version>300</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.3.0/Lords-Account-0.3.0-universal2-build-300.dmg" length="48081933" type="application/octet-stream" sparkle:edSignature="4CdkJBZ+DcWvCVUyQAHMp6VXcBKWvne1vGG/B/Llb9RSDTa/UUzvSQd30XTOkA6pkqziUkpIb50cUrbhWN7EDw=="/>
+        </item>
         <item>
             <title>0.2.0</title>
             <pubDate>Tue, 13 Oct 2026 13:25:47 -0400</pubDate>
             <sparkle:version>200</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.2.0/Lords-Account-0.2.0-universal2-build-200.dmg" length="46423209" type="application/octet-stream" sparkle:edSignature="iWsoxoAdtdlskIMxJZlSudpgAibcrzO7jSyjHp2l6mE/9DkUdeWg1PlNbUwrUoHSa728lhO4+nYGnxDxaY1EBQ=="></enclosure>
+            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.2.0/Lords-Account-0.2.0-universal2-build-200.dmg" length="46423209" type="application/octet-stream" sparkle:edSignature="iWsoxoAdtdlskIMxJZlSudpgAibcrzO7jSyjHp2l6mE/9DkUdeWg1PlNbUwrUoHSa728lhO4+nYGnxDxaY1EBQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: 3v9pHBiBDXi0idrNEDRv/qwqe7XTSX0zy4lUwSU5uDXQxQS8CwPm42AeiT6LnHBo/0e6L8NDPokOeY/IzUfeAg==
-length: 1093
+</rss>
+<!-- sparkle-signatures:
+edSignature: CZP64PvI3j8HHTcaMj9O5CzoHKtzebf12oZSwnTmSRJEn6P6dHIEPsFVVtWf5J+s9fvXq7nZAl06g2RbQG56Dw==
+length: 1733
 -->
