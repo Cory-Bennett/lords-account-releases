@@ -18,10 +18,7 @@ are enabled by default; downloaded updates install when you quit. Use
 **Lords Account → Check for Updates…** for a manual check, or General settings
 to change update preferences. Keep the app in Applications for updates.
 
-## Preparing 0.4.0 (build 400)
-
-The replacement installer is being built and verified. The download link above
-continues to serve the latest published release until that work is complete.
+## What's new in 0.4.0 (build 400)
 
 - A top-level **Events** category with Guild Fest, 24-Hour Event, Hell Events,
   Solo Events, KVK, Chaos Arena and Exchange sub-tabs.
