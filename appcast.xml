@@ -6,6 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Lords Account</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 22 Oct 2026 15:58:57 -0400</pubDate>
+            <sparkle:version>400</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Cory-Bennett/lords-account-releases/releases/download/v0.4.0/Lords-Account-0.4.0-universal2-build-400.dmg" length="86618117" type="application/octet-stream" sparkle:edSignature="+wsDJG5Rxcgeeb/zfsFim788ntl+1mKfPEUcSBOm0yKK2RiIBw06xThczMNyAxqde4RABaIoCx3rcg1zAXLtCA=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Tue, 13 Oct 2026 22:01:15 -0400</pubDate>
             <sparkle:version>301</sparkle:version>
@@ -32,6 +40,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: jbH2FDdvLcFxrM65Nx2MDXfsRw+SmGbKd3moDa6QpD23q7UCXJhW3dRUwIz9Aq0CinMzZNZGvycKRDIxENXIBw==
-length: 2381
+edSignature: 7Vf5IQI2GXVG9enxj3SrRz8ikAF46yBjE1BIueiZPTtneIL1u2Mqc1dWYlQm9zcVv6fW4z26MkMiLl+3fZw6Ag==
+length: 3029
 -->
