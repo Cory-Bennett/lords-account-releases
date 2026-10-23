@@ -18,16 +18,18 @@ are enabled by default; downloaded updates install when you quit. Use
 **Lords Account → Check for Updates…** for a manual check, or General settings
 to change update preferences. Keep the app in Applications for updates.
 
-## What's new in 0.4.0 (build 400)
+## What's new in 0.4.1 (build 401)
 
-- A top-level **Events** category with Guild Fest, 24-Hour Event, Hell Events,
-  Solo Events, KVK, Chaos Arena and Exchange sub-tabs.
-- Expanded supported automation for gathering, building and research, troop
-  queues, equipment, familiars, rewards, combat and Guild Bank operations.
-- Multiple Colosseum challenges and defense updates, Trial by Fire formation
-  support, and improved compatibility with imported settings.
-- Fixes for heartbeat timing, reconnects, shelter renewal readiness, Guild Fest
-  help state and Colosseum completion.
+- Compact dark workspace with a named account sidebar, one row of account tabs,
+  an Overview dashboard and direct settings and Activity navigation.
+- Overview displays received account/resource/army observations and real routine
+  diagnostics. Unknown or offline data is labeled; Recall All retains its review.
+- Heroic Saga adds optional owned-Compass refreshes with a target grade, token
+  reserve and configurable budget. Compass use defaults off; gem purchases stay disabled.
+- Game/Guild mail deletion admits only read, unsaved, reward-free letters with
+  verified native subtypes. Attachments and unknown subtypes remain protected.
+- Guild-management policy and Realm admission checks are expanded. Live guild
+  membership mutations and unverified Realm execution remain unavailable.
 
 ## Using the app
 
