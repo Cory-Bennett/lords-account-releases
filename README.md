@@ -18,18 +18,21 @@ are enabled by default; downloaded updates install when you quit. Use
 **Lords Account → Check for Updates…** for a manual check, or General settings
 to change update preferences. Keep the app in Applications for updates.
 
-## What's new in 0.4.1 (build 401)
+## What's new in 0.4.2 (build 402)
 
-- Compact dark workspace with a named account sidebar, one row of account tabs,
-  an Overview dashboard and direct settings and Activity navigation.
-- Overview displays received account/resource/army observations and real routine
-  diagnostics. Unknown or offline data is labeled; Recall All retains its review.
-- Heroic Saga adds optional owned-Compass refreshes with a target grade, token
-  reserve and configurable budget. Compass use defaults off; gem purchases stay disabled.
-- Game/Guild mail deletion admits only read, unsaved, reward-free letters with
-  verified native subtypes. Attachments and unknown subtypes remain protected.
-- Guild-management policy and Realm admission checks are expanded. Live guild
-  membership mutations and unverified Realm execution remain unavailable.
+- Recent Activities replaces the flickering routine rows, keeps background polling quiet,
+  and shows confirmed chest and guild-gift rewards with item names, quantities and rarity.
+  Routine configuration and prerequisites remain available in a separate status review.
+- Numeric inputs accept exact K/M/B shorthand and optional currency prefixes, normalize
+  on commit, and preserve saved values when an entry is invalid or outside its limits.
+- Direct Bank, Guild and Quests navigation, distinct Buildings/Research/Army sections,
+  a roomier current-task header and a scheduled-wake countdown in the account sidebar.
+- Overview honors the saved resource visibility preference. Settings help distinguishes
+  active native behavior from imported preferences retained for compatibility.
+- Both Exchange editors share explicit enable/disable, default and zero-limit behavior.
+  Claims still apply only to already-earned points; mission automation remains separate.
+- Supply offers a read-only current guild refresh and recipient picker. Saved recipients
+  are revalidated against current identity and guild membership before any shipment.
 
 ## Using the app
 
