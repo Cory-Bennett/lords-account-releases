@@ -18,7 +18,16 @@ are enabled by default; downloaded updates install when you quit. Use
 **Lords Account → Check for Updates…** for a manual check, or General settings
 to change update preferences. Keep the app in Applications for updates.
 
-## What's new in 0.4.2 (build 402)
+## What's new in 0.4.3 (build 403)
+
+- Connection recovery retires stale streams so late callbacks cannot restore an old connection or interrupt its replacement.
+- Colosseum defender updates and gem claims retain uncertain operations and server refusals across reconnects without replaying them. Defender maintenance uses the corrected native request and receipt contract.
+- Equipment → Review held baseline shows the held goal, received equipment and unresolved changes. Explicit baseline adoption requires verified current observations and preserves restoration evidence and refusal holds.
+- Pact merging reports specific missing prerequisites and resource deficits, retains per-tier reasons and can select another eligible saved tier.
+- Cargo can resume proved independent city-funded trades while preserving unresolved prior operations. Final admission rechecks both journals, current stocks, saved choices and reserves; only an isolated owned receipt settles the new trade.
+
+Includes the UI redesign and settings improvements from 0.4.2:
+
 
 - Recent Activities replaces the flickering routine rows, keeps background polling quiet,
   and shows confirmed chest and guild-gift rewards with item names, quantities and rarity.
